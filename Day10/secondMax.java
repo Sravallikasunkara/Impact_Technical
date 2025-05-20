@@ -20,9 +20,7 @@ public class secondMax {
                 slargest=arr[i];
             }
         }
-
         System.out.println(slargest);
-
     }
     
 }
